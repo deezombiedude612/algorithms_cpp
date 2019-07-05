@@ -1,3 +1,3 @@
 # algorithms_cpp
 
-Contains various algorithms implemented in C++ from multiple academic sources.
+Contains various algorithms implemented in C++ from various sources.
